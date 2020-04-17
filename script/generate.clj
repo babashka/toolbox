@@ -3,26 +3,11 @@
 (ns generate
   (:require
    [babashka.classpath :refer [add-classpath]]
-   [babashka.curl :as curl]
    [clj-yaml.core :as yaml]
-   [clojure.java.io :as io]
-   [clojure.string :as str]))
+   [clojure.string :as str]
+   [clojure.java.shell :refer [sh]]))
 
-;;;; Deps
-
-(def lib-dir (io/file "lib"))
-
-;; This installs the comb templating library in ./lib
-(when-not (.exists lib-dir)
-  (println "Installing dependencies")
-  (.mkdirs lib-dir)
-  (doseq [{:keys [:file :url]}
-          [{:file (io/file (io/file lib-dir "comb" "template.clj"))
-            :url "https://raw.githubusercontent.com/weavejester/comb/master/src/comb/template.clj"}]]
-    (io/make-parents file)
-    (spit file (:body (curl/get url)))))
-
-(add-classpath "lib")
+(add-classpath (:out (sh "clojure" "-Spath")))
 
 ;;;; End deps
 
