@@ -14,6 +14,7 @@
 
 ;; This installs the comb templating library in ./lib
 (when-not (.exists lib-dir)
+  (println "Installing dependencies")
   (.mkdirs lib-dir)
   (doseq [{:keys [:file :url]}
           [{:file (io/file (io/file lib-dir "comb" "template.clj"))
