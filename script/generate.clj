@@ -9,8 +9,6 @@
 
 (add-classpath (:out (sh "clojure" "-Spath")))
 
-;;;; End deps
-
 (require '[comb.template :as template])
 
 (def projects (->> (yaml/parse-string (slurp "projects.yml"))
