@@ -243,3 +243,7 @@ aws_api:
   categories: [Amazon Web Services (AWS)]
   platforms: [pod]
 
+awyeah_api:
+  name: awyeah-api
+  url: https://github.com/grzm/awyeah-api
+  categories: [Amazon Web Services (AWS)]
