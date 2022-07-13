@@ -58,3 +58,8 @@ minimallist:
   name: minimallist
   url: https://github.com/green-coder/minimallist
   categories: [Schema, Validation, Random Data Generation]
+
+loom:
+  name: Loom
+  url: https://github.com/aysylu/loom
+  categories: [Data Structures, Graphs]
