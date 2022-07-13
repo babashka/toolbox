@@ -159,3 +159,9 @@ slingshot:
   name: Slingshot
   url: https://github.com/scgilardi/slingshot
   categories: [Exception Handling]
+
+cheshire:
+  name: Cheshire
+  url: https://github.com/dakrone/cheshire
+  categories: [JSON Parsers]
+  platforms: [built-in]
