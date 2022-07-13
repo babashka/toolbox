@@ -282,3 +282,8 @@ expectations:
   name: Expectations
   url: https://clojure-expectations.github.io
   categories: [Unit Testing]
+
+datalog_parser:
+  name: datalog parser
+  url: https://github.com/lambdaforge/datalog-parser
+  categories: [Datalog]
