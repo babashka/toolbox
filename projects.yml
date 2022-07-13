@@ -38,3 +38,8 @@ clj-http-lite:
   name: clj-http-lite
   url: https://github.com/clj-commons/clj-http-lite
   categories: [HTTP Clients]
+
+babashka.curl:
+  name: babashka.curl
+  url: https://github.com/babashka/babashka.curl
+  categories: [HTTP Clients]
