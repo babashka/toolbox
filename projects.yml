@@ -207,3 +207,9 @@ http_kit:
   url: https://github.com/http-kit/http-kit
   categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients, Websockets]
   platforms: [built-in]
+
+hiccup:
+  name: Hiccup
+  url: https://github.com/weavejester/hiccup
+  categories: [Template Languages, HTML Generation, Hiccup Syntax]
+  platforms: [built-in]
