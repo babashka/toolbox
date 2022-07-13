@@ -262,3 +262,8 @@ math_numeric_tower:
   name: math.numeric-tower
   url: https://github.com/clojure/math.numeric-tower
   categories: [Math]
+
+specter:
+  name: Specter
+  url: https://github.com/nathanmarz/specter
+  categories: [Data Transformation, Functional Programming]
