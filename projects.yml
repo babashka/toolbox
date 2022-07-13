@@ -165,6 +165,11 @@ slingshot:
   url: https://github.com/scgilardi/slingshot
   categories: [Exception Handling]
 
+failjure:
+  name: failjure
+  url: https://github.com/adambard/failjure
+  categories: [Exception Handling]
+
 cheshire:
   name: Cheshire
   url: https://github.com/dakrone/cheshire
