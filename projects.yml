@@ -73,3 +73,13 @@ markdown_clj:
   name: markdown-clj
   url: https://github.com/yogthos/markdown-clj
   categories: [Markdown Parsers]
+
+component:
+  name: Component
+  url: https://github.com/stuartsierra/component
+  categories: [Reloaded Workflow, Application Frameworks]
+
+integrant:
+  name: Integrant
+  url: https://github.com/weavejester/integrant
+  categories: [Application Frameworks]
