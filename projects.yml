@@ -213,3 +213,9 @@ hiccup:
   url: https://github.com/weavejester/hiccup
   categories: [Template Languages, HTML Generation, Hiccup Syntax]
   platforms: [built-in]
+
+selmer:
+  name: Selmer
+  url: https://github.com/yogthos/Selmer
+  categories: [Template Languages]
+  platforms: [built-in]
