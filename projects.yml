@@ -344,3 +344,9 @@ process:
   url: https://github.com/babashka/process
   categories: [Process handling]
   platforms: [built-in]
+
+setup_babashka:
+  name: Setup babashka
+  url: https://github.com/turtlequeue/setup-babashka
+  categories: [Github Actions]
+
