@@ -159,3 +159,8 @@ algo_monads:
   name: algo.monads
   url: https://github.com/clojure/algo.monads
   categories: [Functional Programming, Monads]
+
+slingshot:
+  name: Slingshot
+  url: https://github.com/scgilardi/slingshot
+  categories: [Exception Handling]
