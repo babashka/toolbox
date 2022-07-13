@@ -23,3 +23,18 @@ spec_alpha:
   categories: [Spec, Schema, Dynamic Typing, Validation]
   notes: |
     Babaskha maintained fork.
+
+java_http_clj:
+  name: java-http-clj
+  url: https://github.com/schmee/java-http-clj
+  categories: [HTTP Clients, Websockets, Asynchronous HTTP]
+
+hato:
+  name: hato
+  url: https://github.com/gnarroway/hato
+  categories: [HTTP Clients]
+
+clj-http-lite:
+  name: clj-http-lite
+  url: https://github.com/clj-commons/clj-http-lite
+  categories: [HTTP Clients]
