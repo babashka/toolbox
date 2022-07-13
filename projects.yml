@@ -287,3 +287,8 @@ datalog_parser:
   name: datalog parser
   url: https://github.com/lambdaforge/datalog-parser
   categories: [Datalog]
+
+progrock:
+  name: progrock
+  url: https://github.com/weavejester/progrock
+  categories: [Command Line Tools]
