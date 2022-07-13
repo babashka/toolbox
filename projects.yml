@@ -183,3 +183,9 @@ clj_yaml:
   url: https://github.com/clj-commons/clj-yaml
   categories: [YAML Parsers]
   platforms: [built-in]
+
+data_xml:
+  name: data.xml
+  url: https://github.com/clojure/data.xml
+  categories: [XML Parsers, XML Generation]
+  platforms: [built-in]
