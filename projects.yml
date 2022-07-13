@@ -165,3 +165,9 @@ cheshire:
   url: https://github.com/dakrone/cheshire
   categories: [JSON Parsers]
   platforms: [built-in]
+
+data_csv:
+  name: data.csv
+  url: https://github.com/clojure/data.csv
+  categories: [CSV Parsers]
+  platforms: [built-in]
