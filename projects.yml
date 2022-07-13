@@ -297,3 +297,8 @@ clojure_term_colors:
   name: clojure-term-colors
   url: https://github.com/trhura/clojure-term-colors
   categories: [Command Line Tools]
+
+expound:
+  name: Expound
+  url: https://github.com/bhb/expound
+  categories: [Spec]
