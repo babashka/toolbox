@@ -312,3 +312,8 @@ jasentaa:
   name: jasentaa
   url: https://github.com/rm-hull/jasentaa
   categories: [Parsing]
+
+clojure_data_generators:
+  name: clojure.data.generators
+  url: https://github.com/clojure/data.generators
+  categories: [Random Data Generation]
