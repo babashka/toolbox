@@ -93,3 +93,8 @@ honey_sql:
   name: Honey SQL
   url: https://github.com/seancorfield/honeysql
   categories: [SQL Abstraction]
+
+cprop:
+  name: cprop
+  url: https://github.com/tolitius/cprop
+  categories: [Configuration]
