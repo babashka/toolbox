@@ -108,3 +108,8 @@ camel_snake_kebab:
   name: camel-snake-kebab
   url: https://github.com/clj-commons/camel-snake-kebab
   categories: [String Manipulation]
+
+portal:
+  name: portal
+  url: https://github.com/djblue/portal
+  categories: [Data Exploration]
