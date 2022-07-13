@@ -139,3 +139,14 @@ omniconf:
   name: omniconf
   url: https://github.com/grammarly/omniconf
   categories: [Configuration]
+
+hasch:
+  name: hasch
+  url: https://github.com/replikativ/hasch
+  categories: [Hashing]
+
+clj_multihash:
+  name: clj-multihash
+  url: https://github.com/greglook/clj-multihash
+  categories: [Cryptography, Hashing]
+  platforms: [clj]
