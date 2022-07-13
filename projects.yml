@@ -350,3 +350,7 @@ setup_babashka:
   url: https://github.com/turtlequeue/setup-babashka
   categories: [Github Actions]
 
+etaoin:
+  name: Etaoin
+  url: https://github.com/igrishaev/etaoin
+  categories: [Selenium Webdriver, Web Testing]
