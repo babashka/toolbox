@@ -252,3 +252,8 @@ blambda:
   name: blambda
   url: https://github.com/jmglov/blambda
   categories: [Amazon Web Services (AWS)]
+
+holy_lambda:
+  name: Holy Lambda
+  url: https://github.com/FieryCod/holy-lambda
+  categories: [Amazon Web Services (AWS)]
