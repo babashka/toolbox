@@ -257,3 +257,8 @@ holy_lambda:
   name: Holy Lambda
   url: https://github.com/FieryCod/holy-lambda
   categories: [Amazon Web Services (AWS)]
+
+math_numeric_tower:
+  name: math.numeric-tower
+  url: https://github.com/clojure/math.numeric-tower
+  categories: [Math]
