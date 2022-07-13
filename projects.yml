@@ -103,3 +103,8 @@ regal:
   name: Regal
   url: https://github.com/lambdaisland/regal
   categories: [Regular Expressions]
+
+camel_snake_kebab:
+  name: camel-snake-kebab
+  url: https://github.com/clj-commons/camel-snake-kebab
+  categories: [String Manipulation]
