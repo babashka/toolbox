@@ -154,3 +154,8 @@ contajners:
   name: contajners
   url: https://github.com/lispyclouds/contajners
   categories: [Docker Integration]
+
+algo_monads:
+  name: algo.monads
+  url: https://github.com/clojure/algo.monads
+  categories: [Functional Programming, Monads]
