@@ -282,3 +282,7 @@ footer a, footer a:visited, footer a:hover, footer a:active {
 @media all and (orientation:portrait) {}
 @media all and (orientation:landscape) {}
 @media screen and (max-device-width: 480px) {}
+
+.pointer {
+  cursor: pointer;
+}

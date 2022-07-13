@@ -1,3 +1,0 @@
-{:deps {comb {:git/url "https://github.com/weavejester/comb"
-              :sha "625a63a9c040fa4a2b3153d8c84d08dc2fc8f660"
-              :deps/manifest :deps}}}

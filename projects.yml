@@ -2,4 +2,24 @@ babashka:
   name: babashka
   url: https://github.com/babashka/babashka
   categories: [Scripting]
-  platforms: [clj]
+
+tools_namespace:
+  name: tools.namespace
+  url: https://github.com/babashka/tools.namespace
+  categories: [Namespace Utilities]
+  notes: |
+    Babaskha maintained fork.
+
+test_runner:
+  name: test-runner
+  url: https://github.com/cognitect-labs/test-runner
+  categories: [Test Runners]
+  notes: |
+    Needs babashka fork of tools.namespace.
+
+spec_alpha:
+  name: spec.alpha
+  url: https://github.com/babashka/spec.alpha
+  categories: [Spec, Schema, Dynamic Typing, Validation]
+  notes: |
+    Babaskha maintained fork.

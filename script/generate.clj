@@ -2,14 +2,9 @@
 
 (ns generate
   (:require
-   [babashka.classpath :refer [add-classpath]]
    [clj-yaml.core :as yaml]
    [clojure.string :as str]
-   [clojure.java.shell :refer [sh]]))
-
-(add-classpath (:out (sh "clojure" "-Spath")))
-
-(require '[comb.template :as template])
+   [comb.template :as template]))
 
 (def projects (->> (yaml/parse-string (slurp "projects.yml"))
                    vals
