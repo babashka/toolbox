@@ -113,3 +113,8 @@ portal:
   name: portal
   url: https://github.com/djblue/portal
   categories: [Data Exploration]
+
+cljc_java_time:
+  name: cljc.java-time
+  url: https://github.com/henryw374/cljc.java-time
+  categories: [Date and Time]
