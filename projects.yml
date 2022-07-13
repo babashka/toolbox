@@ -334,7 +334,7 @@ comb:
   categories: [Template Languages]
 
 fs:
-  name: babashka fs
+  name: fs
   url: https://github.com/babashka/fs
   categories: [Filesystem Utilities]
   platforms: [built-in]
