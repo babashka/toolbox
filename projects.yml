@@ -88,3 +88,8 @@ ruuter:
   name: Ruuter
   url: https://github.com/askonomm/ruuter
   categories: [HTTP Routing]
+
+honey_sql:
+  name: Honey SQL
+  url: https://github.com/seancorfield/honeysql
+  categories: [SQL Abstraction]
