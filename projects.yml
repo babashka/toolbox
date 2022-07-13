@@ -302,3 +302,8 @@ expound:
   name: Expound
   url: https://github.com/bhb/expound
   categories: [Spec]
+
+docopt:
+  name: docopt
+  url: https://github.com/nubank/docopt.clj
+  categories: [Command Line Tools]
