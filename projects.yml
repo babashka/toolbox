@@ -247,3 +247,8 @@ awyeah_api:
   name: awyeah-api
   url: https://github.com/grzm/awyeah-api
   categories: [Amazon Web Services (AWS)]
+
+blambda:
+  name: blambda
+  url: https://github.com/jmglov/blambda
+  categories: [Amazon Web Services (AWS)]
