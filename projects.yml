@@ -307,3 +307,8 @@ docopt:
   name: docopt
   url: https://github.com/nubank/docopt.clj
   categories: [Command Line Tools]
+
+jasentaa:
+  name: jasentaa
+  url: https://github.com/rm-hull/jasentaa
+  categories: [Parsing]
