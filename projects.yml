@@ -219,3 +219,9 @@ selmer:
   url: https://github.com/yogthos/Selmer
   categories: [Template Languages]
   platforms: [built-in]
+
+timbre:
+  name: Timbre
+  url: https://github.com/ptaoussanis/timbre
+  categories: [Logging]
+  platforms: [built-in]
