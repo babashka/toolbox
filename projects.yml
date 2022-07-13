@@ -123,3 +123,8 @@ environ:
   name: Environ
   url: https://github.com/weavejester/environ
   categories: [Configuration]
+
+binf_cljc:
+  name: binf.cljc
+  url: https://github.com/helins/binf.cljc
+  categories: [Binary Data, Parsing]
