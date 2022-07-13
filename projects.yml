@@ -43,3 +43,18 @@ babashka.curl:
   name: babashka.curl
   url: https://github.com/babashka/babashka.curl
   categories: [HTTP Clients]
+
+schema:
+  name: Schema
+  url: https://github.com/plumatic/schema
+  categories: [Schema, Validation, Random Data Generation, Syntax Extensions, Dynamic Typing]
+
+malli:
+  name: malli
+  url: https://github.com/metosin/malli
+  categories: [Schema, Validation, Random Data Generation]
+
+minimallist:
+  name: minimallist
+  url: https://github.com/green-coder/minimallist
+  categories: [Schema, Validation, Random Data Generation]
