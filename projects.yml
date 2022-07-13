@@ -118,3 +118,8 @@ cljc_java_time:
   name: cljc.java-time
   url: https://github.com/henryw374/cljc.java-time
   categories: [Date and Time]
+
+environ:
+  name: Environ
+  url: https://github.com/weavejester/environ
+  categories: [Configuration]
