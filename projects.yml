@@ -241,4 +241,5 @@ aws_api:
   name: pod-babashka-aws
   url: https://github.com/babashka/pod-babashka-aws
   categories: [Amazon Web Services (AWS)]
+  platforms: [pod]
 
