@@ -98,3 +98,8 @@ cprop:
   name: cprop
   url: https://github.com/tolitius/cprop
   categories: [Configuration]
+
+regal:
+  name: Regal
+  url: https://github.com/lambdaisland/regal
+  categories: [Regular Expressions]
