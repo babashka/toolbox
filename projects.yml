@@ -267,3 +267,8 @@ specter:
   name: Specter
   url: https://github.com/nathanmarz/specter
   categories: [Data Transformation, Functional Programming]
+
+expectations:
+  name: Expectations
+  url: https://clojure-expectations.github.io
+  categories: [Unit Testing]
