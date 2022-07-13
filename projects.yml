@@ -327,3 +327,8 @@ clojure_data_generators:
   name: clojure.data.generators
   url: https://github.com/clojure/data.generators
   categories: [Random Data Generation]
+
+comb:
+  name: Comb
+  url: https://github.com/weavejester/comb
+  categories: [Template Languages]
