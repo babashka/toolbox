@@ -83,3 +83,8 @@ integrant:
   name: Integrant
   url: https://github.com/weavejester/integrant
   categories: [Application Frameworks]
+
+ruuter:
+  name: Ruuter
+  url: https://github.com/askonomm/ruuter
+  categories: [HTTP Routing]
