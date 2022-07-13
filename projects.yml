@@ -236,3 +236,9 @@ meander:
   name: Meander
   url: https://github.com/noprompt/meander
   categories: [Data Transformation]
+
+aws_api:
+  name: pod-babashka-aws
+  url: https://github.com/babashka/pod-babashka-aws
+  categories: [Amazon Web Services (AWS)]
+
