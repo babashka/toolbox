@@ -201,3 +201,9 @@ transit_clj:
   url: https://github.com/cognitect/transit-clj
   categories: [Data Serialization]
   platforms: [built-in]
+
+http_kit:
+  name: http-kit
+  url: https://github.com/http-kit/http-kit
+  categories: [Asynchronous HTTP, HTTP Servers, HTTP Clients, Websockets]
+  platforms: [built-in]
