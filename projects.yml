@@ -195,3 +195,9 @@ core_async:
   url: https://github.com/clojure/core.async
   categories: [Asynchronous Programming, Syntax Extensions]
   platforms: [built-in]
+
+transit_clj:
+  name: transit-clj
+  url: https://github.com/cognitect/transit-clj
+  categories: [Data Serialization]
+  platforms: [built-in]
