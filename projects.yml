@@ -171,3 +171,9 @@ data_csv:
   url: https://github.com/clojure/data.csv
   categories: [CSV Parsers]
   platforms: [built-in]
+
+tools_cli:
+  name: tools.cli
+  url: https://github.com/clojure/tools.cli
+  categories: [Command Line Tools]
+  platforms: [built-in]
