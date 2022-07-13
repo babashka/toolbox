@@ -225,3 +225,9 @@ timbre:
   url: https://github.com/ptaoussanis/timbre
   categories: [Logging]
   platforms: [built-in]
+
+tools_logging:
+  name: tools.logging
+  url: https://github.com/clojure/tools.logging
+  categories: [Logging]
+  platforms: [built-in]
