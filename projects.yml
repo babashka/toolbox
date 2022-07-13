@@ -189,3 +189,9 @@ data_xml:
   url: https://github.com/clojure/data.xml
   categories: [XML Parsers, XML Generation]
   platforms: [built-in]
+
+core_async:
+  name: core.async
+  url: https://github.com/clojure/core.async
+  categories: [Asynchronous Programming, Syntax Extensions]
+  platforms: [built-in]
