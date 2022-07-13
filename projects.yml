@@ -149,4 +149,8 @@ clj_multihash:
   name: clj-multihash
   url: https://github.com/greglook/clj-multihash
   categories: [Cryptography, Hashing]
-  platforms: [clj]
+
+contajners:
+  name: contajners
+  url: https://github.com/lispyclouds/contajners
+  categories: [Docker Integration]
