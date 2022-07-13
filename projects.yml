@@ -332,3 +332,9 @@ comb:
   name: Comb
   url: https://github.com/weavejester/comb
   categories: [Template Languages]
+
+fs:
+  name: babashka fs
+  url: https://github.com/babashka/fs
+  categories: [Filesystem Utilities]
+  platforms: [built-in]
