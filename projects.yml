@@ -231,3 +231,8 @@ tools_logging:
   url: https://github.com/clojure/tools.logging
   categories: [Logging]
   platforms: [built-in]
+
+meander:
+  name: Meander
+  url: https://github.com/noprompt/meander
+  categories: [Data Transformation]
