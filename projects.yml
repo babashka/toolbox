@@ -177,3 +177,9 @@ tools_cli:
   url: https://github.com/clojure/tools.cli
   categories: [Command Line Tools]
   platforms: [built-in]
+
+clj_yaml:
+  name: clj-yaml
+  url: https://github.com/clj-commons/clj-yaml
+  categories: [YAML Parsers]
+  platforms: [built-in]
