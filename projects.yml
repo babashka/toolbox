@@ -292,3 +292,8 @@ progrock:
   name: progrock
   url: https://github.com/weavejester/progrock
   categories: [Command Line Tools]
+
+clojure_term_colors:
+  name: clojure-term-colors
+  url: https://github.com/trhura/clojure-term-colors
+  categories: [Command Line Tools]
