@@ -178,6 +178,16 @@ tools_cli:
   categories: [Command Line Tools]
   platforms: [built-in]
 
+cli_matic:
+  name: cli-matic
+  url: https://github.com/l3nz/cli-matic
+  categories: [Command Line Tools]
+
+cli:
+  name: cli
+  url: https://github.com/babashka/cli
+  categories: [Command Line Tools]
+
 clj_yaml:
   name: clj-yaml
   url: https://github.com/clj-commons/clj-yaml
