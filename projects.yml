@@ -424,3 +424,9 @@ conch:
   url: https://github.com/clj-commons/conch
   categories: [OS Processes, Terminal Utilities]
   platforms: [clj]
+
+ordered:
+  name: ordered
+  url: https://github.com/clj-commons/ordered
+  categories: [Data Structures]
+  platforms: [built-in]
