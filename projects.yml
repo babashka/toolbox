@@ -402,3 +402,13 @@ faker:
   name: Faker
   url: https://github.com/paraseba/faker
   categories: [Random Data Generation]
+
+clansi:
+  name: Clansi
+  url: https://github.com/ams-clj/clansi
+  categories: [Terminal Utilities]
+
+clansi:
+  name: Clansi
+  url: https://github.com/ams-clj/clansi
+  categories: [Terminal Utilities]
