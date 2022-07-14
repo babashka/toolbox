@@ -412,3 +412,9 @@ clansi:
   name: Clansi
   url: https://github.com/ams-clj/clansi
   categories: [Terminal Utilities]
+
+core_match:
+  name: core.match
+  url: https://github.com/clojure/core.match
+  categories: [Functional Programming, Pattern Matching, Syntax Extensions]
+  platforms: [built-in]
