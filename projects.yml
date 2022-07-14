@@ -366,3 +366,8 @@ test_check:
   url: https://github.com/clojure/test.check
   categories: [Unit Testing, Random Data Generation]
   platforms: [built-in]
+
+scriptjure:
+  name: Scriptjure
+  url: https://github.com/arohner/scriptjure
+  categories: [Javascript Generation]
