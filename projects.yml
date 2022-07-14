@@ -436,3 +436,8 @@ data_priority_map:
   url: https://github.com/clojure/data.priority-map
   categories: [Data Structures]
   platforms: [built-in]
+
+medley:
+  name: Medley
+  url: https://github.com/weavejester/medley
+  categories: [Misc. Functions]
