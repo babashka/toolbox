@@ -354,3 +354,9 @@ etaoin:
   name: Etaoin
   url: https://github.com/igrishaev/etaoin
   categories: [Selenium Webdriver, Web Testing]
+
+pod_babashka_buddy:
+  name: pod-babashka-buddy
+  url: https://github.com/babashka/pod-babashka-buddy
+  categories: [Authentication, Authorization, Cryptography, Hashing, Password Security]
+  platforms: [pod]
