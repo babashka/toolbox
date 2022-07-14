@@ -397,4 +397,8 @@ hashp:
   name: hashp
   url: https://github.com/weavejester/hashp
   categories: [Debugging]
-  platforms: [clj, cljs]
+
+faker:
+  name: Faker
+  url: https://github.com/paraseba/faker
+  categories: [Random Data Generation]
