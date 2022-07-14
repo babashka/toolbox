@@ -441,3 +441,8 @@ medley:
   name: Medley
   url: https://github.com/weavejester/medley
   categories: [Misc. Functions]
+
+ring_codec:
+  name: Ring-Codec
+  url: https://github.com/ring-clojure/ring-codec
+  categories: [Encoding/Decoding]
