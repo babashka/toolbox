@@ -387,3 +387,14 @@ scope_capture:
   name: scope-capture
   url: https://github.com/vvvvalvalval/scope-capture
   categories: [Debugging]
+
+hashp:
+  name: hashp
+  url: https://github.com/weavejester/hashp
+  categories: [Debugging]
+
+hashp:
+  name: hashp
+  url: https://github.com/weavejester/hashp
+  categories: [Debugging]
+  platforms: [clj, cljs]
