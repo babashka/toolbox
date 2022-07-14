@@ -360,3 +360,9 @@ pod_babashka_buddy:
   url: https://github.com/babashka/pod-babashka-buddy
   categories: [Authentication, Authorization, Cryptography, Hashing, Password Security]
   platforms: [pod]
+
+test_check:
+  name: test.check
+  url: https://github.com/clojure/test.check
+  categories: [Unit Testing, Random Data Generation]
+  platforms: [built-in]
