@@ -382,3 +382,8 @@ gaka:
   url: https://github.com/briancarper/gaka
   categories: [CSS Generation]
   platforms: [clj]
+
+scope_capture:
+  name: scope-capture
+  url: https://github.com/vvvvalvalval/scope-capture
+  categories: [Debugging]
