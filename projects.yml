@@ -339,12 +339,6 @@ fs:
   categories: [Filesystem Utilities]
   platforms: [built-in]
 
-process:
-  name: process
-  url: https://github.com/babashka/process
-  categories: [Process handling]
-  platforms: [built-in]
-
 setup_babashka:
   name: Setup babashka
   url: https://github.com/turtlequeue/setup-babashka
@@ -418,3 +412,15 @@ core_match:
   url: https://github.com/clojure/core.match
   categories: [Functional Programming, Pattern Matching, Syntax Extensions]
   platforms: [built-in]
+
+process:
+  name: process
+  url: https://github.com/babashka/process
+  categories: [OS Processes, Terminal Utilities]
+  platforms: [built-in]
+
+conch:
+  name: Conch
+  url: https://github.com/clj-commons/conch
+  categories: [OS Processes, Terminal Utilities]
+  platforms: [clj]
