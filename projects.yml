@@ -430,3 +430,9 @@ ordered:
   url: https://github.com/clj-commons/ordered
   categories: [Data Structures]
   platforms: [built-in]
+
+data_priority_map:
+  name: data.priority-map
+  url: https://github.com/clojure/data.priority-map
+  categories: [Data Structures]
+  platforms: [built-in]
