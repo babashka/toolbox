@@ -451,3 +451,8 @@ quickblog:
   name: quickblog
   url : https://github.com/borkdude/quickblog
   categories: [Static Site Generation]
+
+quickdoc:
+  name: quickdoc
+  url: https://github.com/borkdude/quickdoc
+  categories: [Documentation Tools]
