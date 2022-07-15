@@ -446,3 +446,8 @@ ring_codec:
   name: Ring-Codec
   url: https://github.com/ring-clojure/ring-codec
   categories: [Encoding/Decoding]
+
+quickblog:
+  name: quickblog
+  url : https://github.com/borkdude/quickblog
+  categories: [Static Site Generation]
