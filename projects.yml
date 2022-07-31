@@ -456,3 +456,8 @@ quickdoc:
   name: quickdoc
   url: https://github.com/borkdude/quickdoc
   categories: [Documentation Tools]
+  
+pyramid:
+  name: pyramid
+  url: https://github.com/lilactown/pyramid
+  categories: [Graphs, Data Transformation, EQL]
