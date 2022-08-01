@@ -461,3 +461,8 @@ pyramid:
   name: pyramid
   url: https://github.com/lilactown/pyramid
   categories: [Graphs, Data Transformation, EQL]
+
+xforms:
+  name: xforms
+  url: https://github.com/cgrand/xforms
+  categories: [Transducers, Data Transformation]
