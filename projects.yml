@@ -466,3 +466,8 @@ xforms:
   name: xforms
   url: https://github.com/cgrand/xforms
   categories: [Transducers, Data Transformation]
+
+clj-nix:
+  name: clj-nix
+  url: https://github.com/jlesquembre/clj-nix
+  categories: [Nix]
