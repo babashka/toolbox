@@ -271,7 +271,7 @@ awyeah_api:
 uri-template:
   name: uri-template
   url: https://github.com/grzm/uri-template
-  categories: [Data Transformation, String Manipulation]
+  categories: [Data Transformation, String Manipulation, Template Languages]
   notes: |
     URI Template (RFC 6570) implementation.
     
