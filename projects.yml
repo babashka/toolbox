@@ -268,6 +268,13 @@ awyeah_api:
   url: https://github.com/grzm/awyeah-api
   categories: [Amazon Web Services (AWS)]
 
+uri-template:
+  name: uri-template
+  url: https://github.com/grzm/uri-template
+  categories: [Data Transformation, String Manipulation]
+  notes: |
+    URI Template (RFC 6570) implementation.
+    
 blambda:
   name: blambda
   url: https://github.com/jmglov/blambda
