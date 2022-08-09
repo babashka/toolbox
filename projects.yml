@@ -463,7 +463,7 @@ quickdoc:
   name: quickdoc
   url: https://github.com/borkdude/quickdoc
   categories: [Documentation Tools]
-  
+
 pyramid:
   name: pyramid
   url: https://github.com/lilactown/pyramid
@@ -478,3 +478,8 @@ clj-nix:
   name: clj-nix
   url: https://github.com/jlesquembre/clj-nix
   categories: [Nix]
+
+ffclj:
+  name: ffclj
+  url: https://github.com/luissantos/ffclj
+  categories: [Audio, Video, ffmpeg]
