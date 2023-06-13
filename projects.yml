@@ -1,9 +1,7 @@
 tools_namespace:
   name: tools.namespace
-  url: https://github.com/babashka/tools.namespace
+  url: https://github.com/clojure/tools.namespace
   categories: [Namespace Utilities]
-  notes: |
-    Babaskha maintained fork.
 
 test_runner:
   name: test-runner
