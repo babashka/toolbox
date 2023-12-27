@@ -481,3 +481,8 @@ ffclj:
   name: ffclj
   url: https://github.com/luissantos/ffclj
   categories: [Audio, Video, ffmpeg]
+
+playback:
+  name: Playback
+  url: https://github.com/gnl/playback
+  categories: [Tracing, Debugging]
