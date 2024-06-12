@@ -495,4 +495,4 @@ HugSQL:
 tick:
   name: tick
   url: https://github.com/juxt/tick
-  categories: [date and time]
+  categories: [Date and Time]
