@@ -496,3 +496,8 @@ tick:
   name: tick
   url: https://github.com/juxt/tick
   categories: [Date and Time]
+
+martian:
+  name: martian
+  url: https://github.com/oliyh/martian
+  categories: [HTTP Clients]
