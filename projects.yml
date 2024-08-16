@@ -36,6 +36,8 @@ babashka.curl:
   name: babashka.curl
   url: https://github.com/babashka/babashka.curl
   categories: [HTTP Clients]
+  notes: |
+    Mostly replaced by babashka.http-client.
 
 schema:
   name: Schema
@@ -501,3 +503,9 @@ martian:
   name: martian
   url: https://github.com/oliyh/martian
   categories: [HTTP Clients]
+
+babashka.http-client:
+  name: babashka.http-client
+  url: https://github.com/babashka/http-client/
+  categories: [HTTP Clients]
+  platforms: [built-in]
