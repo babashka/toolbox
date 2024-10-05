@@ -7,8 +7,6 @@ test_runner:
   name: test-runner
   url: https://github.com/cognitect-labs/test-runner
   categories: [Test Runners]
-  notes: |
-    Needs babashka fork of tools.namespace.
 
 spec_alpha:
   name: spec.alpha
@@ -394,20 +392,10 @@ hashp:
   url: https://github.com/weavejester/hashp
   categories: [Debugging]
 
-hashp:
-  name: hashp
-  url: https://github.com/weavejester/hashp
-  categories: [Debugging]
-
 faker:
   name: Faker
   url: https://github.com/paraseba/faker
   categories: [Random Data Generation]
-
-clansi:
-  name: Clansi
-  url: https://github.com/ams-clj/clansi
-  categories: [Terminal Utilities]
 
 clansi:
   name: Clansi
