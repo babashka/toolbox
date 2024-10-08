@@ -497,3 +497,13 @@ babashka.http-client:
   url: https://github.com/babashka/http-client/
   categories: [HTTP Clients]
   platforms: [built-in]
+
+SemVer:
+  name: SemVer
+  url: https://github.com/dotinspace/semver
+  categories: [Version parsing]
+
+version-clj:
+  name: version-clj
+  url: https://github.com/xsc/version-clj
+  categories: [Version parsing]
