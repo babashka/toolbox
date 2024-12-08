@@ -382,6 +382,12 @@ gaka:
   categories: [CSS Generation]
   platforms: [clj]
 
+garden:
+  name: garden
+  url: https://github.com/lambdaisland/garden
+  categories: [CSS Generation]
+  platforms: [clj]
+
 scope_capture:
   name: scope-capture
   url: https://github.com/vvvvalvalval/scope-capture
