@@ -513,3 +513,8 @@ version-clj:
   name: version-clj
   url: https://github.com/xsc/version-clj
   categories: [Version parsing]
+
+inflections:
+  name: inflections
+  url: https://github.com/r0man/inflections-clj
+  categories: [String Manipulation]
