@@ -82,6 +82,12 @@ ruuter:
   url: https://github.com/askonomm/ruuter
   categories: [HTTP Routing]
 
+clj-simple-router:
+  name: clj-simple-router
+  url: https://github.com/tonsky/clj-simple-router
+  categories: [HTTP Routing]
+
+
 honey_sql:
   name: Honey SQL
   url: https://github.com/seancorfield/honeysql
